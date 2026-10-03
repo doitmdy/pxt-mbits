@@ -1,0 +1,1 @@
+{"dependencies":{"core":"*"},"description":"Elecrow Mbits extension: 5x5 RGB LED matrix blocks for the Mbits board (ESP32) in Microsoft MakeCode.","files":["README.md","main.ts"],"license":"MIT","name":"mbits","public":true,"testFiles":["test.ts"],"version":"1.0.0"}
